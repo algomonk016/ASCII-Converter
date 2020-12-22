@@ -13,7 +13,8 @@ Follow the link for project : [ASCII-Converter](https://www.google.com/url?sa=i&
 ![Text_To_ASCII](https://user-images.githubusercontent.com/55861951/102896489-7d1b8d80-448c-11eb-9cf3-e71ada141ca2.gif)
 
 <br>
-Functions Used: <br>
+## Functions Used: 
+<br>
 ⦁	***convert()*** : <br>
 		- this function is called on 'keyup' event used in input field <br>
 		- it checks whether we want to convert ASCII to Text or vice-versa and call functions for same. <br>
