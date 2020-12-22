@@ -5,16 +5,14 @@ Developed using HTML, CSS and Javascript.
 
 Follow the link for project : [ASCII-Converter](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fcategory%2Fnature&psig=AOvVaw3GLO1rpSmMqIBEAKVnIhDW&ust=1608728477360000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiYz9_S4e0CFQAAAAAdAAAAABAD)
 
-### ASCII To Plain Text Conversion
+#### ASCII To Plain Text Conversion
 ![ASCII_TO_TEXT](https://user-images.githubusercontent.com/55861951/102896417-59f0de00-448c-11eb-82c0-9a0e560bf133.gif)
 <br>
 
-### Plain Text to ASCII Code
+#### Plain Text to ASCII Code
 ![Text_To_ASCII](https://user-images.githubusercontent.com/55861951/102896489-7d1b8d80-448c-11eb-9cf3-e71ada141ca2.gif)
 
-<br>
-## Functions Used: 
-<br>
+### Functions Used : 
 ⦁	***convert()*** : <br>
 		- this function is called on 'keyup' event used in input field <br>
 		- it checks whether we want to convert ASCII to Text or vice-versa and call functions for same. <br>
