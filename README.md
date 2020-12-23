@@ -3,7 +3,7 @@
 World's simplest ASCII Converter. Just type your text in the form given and get ASCII values or vice-versa. <br> 
 Developed using HTML, CSS and Javascript.
 
-Follow the link for project : [ASCII-Converter](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fcategory%2Fnature&psig=AOvVaw3GLO1rpSmMqIBEAKVnIhDW&ust=1608728477360000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiYz9_S4e0CFQAAAAAdAAAAABAD)
+Follow the link for project : [ASCII-Converter](https://algomonk016.github.io/ASCII-Converter/ "ASCII Converter")
 
 #### ASCII To Plain Text Conversion
 ![ASCII_TO_TEXT](https://user-images.githubusercontent.com/55861951/102896417-59f0de00-448c-11eb-82c0-9a0e560bf133.gif)
